@@ -1,0 +1,13 @@
+{
+  "name": "sou-portfolio",
+  "version": "1.0.0",
+  "description": "Premium Responsive Portfolio Website for Soundarya J",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
