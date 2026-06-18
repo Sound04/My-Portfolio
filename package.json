@@ -1,6 +1,7 @@
 {
   "name": "sou-portfolio",
   "version": "1.0.0",
+  "type": "module",
   "description": "Premium Responsive Portfolio Website for Soundarya J",
   "scripts": {
     "dev": "vite",
